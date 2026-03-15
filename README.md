@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RMV — C++20 Register & Memory Validator
 
 A **hardware register validation framework** written in Modern C++20. RMV simulates an Intel-style memory-mapped register space and runs a suite of automated validation tests to detect anomalies — modelling the register verification techniques used in real semiconductor validation workflows.
@@ -170,3 +171,6 @@ g++ -std=c++20 -O2 -Iinclude src/main.cpp -lpthread -o build/rmv
 
 ---
 
+=======
+# rmv-register-memory-validator
+>>>>>>> 007dd5e07edadf42a46f9775e2f768ee1d23468c
